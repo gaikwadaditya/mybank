@@ -1,0 +1,17 @@
+package com.mywork.Business;
+
+import com.mywork.Model.Domestic1OffPaymentRequest;
+
+public class FraudCheck {
+
+    private Domestic1OffPaymentRequest domestic1OffPaymentRequest;
+
+    public FraudCheck(Domestic1OffPaymentRequest domestic1OffPaymentRequest) {
+        this.domestic1OffPaymentRequest = domestic1OffPaymentRequest;
+    }
+
+    public void check() {
+        System.out.println("Place Holder for performing Fraud Checks...");
+    }
+
+}
