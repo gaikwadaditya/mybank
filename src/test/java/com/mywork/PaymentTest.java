@@ -45,7 +45,7 @@ public class PaymentTest {
 
         //Create a Debitor Account with 10 GBP balance
 
-        //TODO Take input from JSON file so as data multiple sets of data sets can be prepared
+        //TODO Take input from JSON file so as multiple sets of data can be prepared
         Account debitorAccount = createDebitorAccount();
 
         //Create a Creditor Account with 0 GBP balance
