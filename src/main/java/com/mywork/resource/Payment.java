@@ -1,13 +1,10 @@
 package com.mywork;
 
-import com.mywork.Model.*;
+import com.mywork.model.*;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
-import javax.ws.rs.core.Response;
-import java.util.UUID;
 
-import com.fasterxml.uuid.Generators;
 import com.mywork.service.Domestic1OffPaymentService;
 import com.mywork.service.Domestic1OffPaymentServiceImpl;
 
