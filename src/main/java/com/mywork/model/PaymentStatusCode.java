@@ -1,4 +1,4 @@
-package com.mywork.Model;
+package com.mywork.model;
 
 /**
  * Specifies the status of the payment information group.

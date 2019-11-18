@@ -1,4 +1,4 @@
-package com.mywork;
+package com.mywork.resource;
 
 import com.mywork.model.*;
 

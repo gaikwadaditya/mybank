@@ -1,6 +1,6 @@
-package com.mywork.Business;
+package com.mywork.business;
 
-import com.mywork.Model.Domestic1OffPaymentRequest;
+import com.mywork.model.Domestic1OffPaymentRequest;
 
 public class TransactionLogging {
 

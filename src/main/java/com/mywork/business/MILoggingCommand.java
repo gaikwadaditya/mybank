@@ -1,4 +1,4 @@
-package com.mywork.Business;
+package com.mywork.business;
 
 public class MILoggingCommand implements Command {
 

@@ -1,9 +1,9 @@
 package com.mywork.service;
 
 import com.fasterxml.uuid.Generators;
-import com.mywork.Business.*;
-import com.mywork.Model.Domestic1OffPaymentRequest;
-import com.mywork.Model.PaymentStatusCode;
+import com.mywork.business.*;
+import com.mywork.model.Domestic1OffPaymentRequest;
+import com.mywork.model.PaymentStatusCode;
 
 import java.util.*;
 

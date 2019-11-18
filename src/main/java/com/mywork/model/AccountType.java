@@ -1,8 +1,8 @@
-package com.mywork.Model;
+package com.mywork.model;
 
 public enum AccountType {
 
-    BUSINESS("Business"),
+    BUSINESS("business"),
 
     PERSONAL("Personal");
 

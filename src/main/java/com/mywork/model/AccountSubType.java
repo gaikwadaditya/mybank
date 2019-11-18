@@ -1,4 +1,4 @@
-package com.mywork.Model;
+package com.mywork.model;
 
 public enum AccountSubType {
 

@@ -7,7 +7,7 @@ import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.mywork.Model.*;
+import com.mywork.model.*;
 import org.glassfish.grizzly.http.server.HttpServer;
 
 import org.glassfish.jersey.jackson.JacksonFeature;
