@@ -26,7 +26,7 @@ public class Domestic1OffPaymentServiceImpl implements Domestic1OffPaymentServic
 
         runCommands(preCheckCommands, domestic1OffPaymentComandProcessor);
 
-        //Submit request to payment Gateway OR
+        //Submit request to deferred net settlement systems(BACS) OR
         //in case of Me 2 Me Domestic transfer, execute logic in thread synchronized block and return
 
         TransactionLoggingCommand transactionLoggingCommand = new TransactionLoggingCommand(new TransactionLogging(domestic1OffPaymentRequest));
